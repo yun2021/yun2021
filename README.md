@@ -17,6 +17,8 @@
 <!-- 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 
+</br>
+
 <h3 align="center">🐰 About me 🐰</h3>
 </br>
 <p align="center">
@@ -41,9 +43,11 @@ https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor
   
 </div> 
  
-</br>
+<!-- </br>
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun2021)](https://github.com/anuraghazra/github-readme-stats)
 
- </div>
+ </div> -->
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&show_icons=true&locale=en&layout=compact" alt="yun2021" /></p>
