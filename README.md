@@ -23,8 +23,6 @@
 </br>
 <p align="center">
   
-https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yun2021
-  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </br>
@@ -46,8 +44,8 @@ https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor
 <!-- </br>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun2021)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yun2021&show_icons=true&locale=en&layout=compact" alt="yun2021" /></p>
 
  </div> -->
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yun2021&show_icons=true&locale=en&layout=compact" alt="yun2021" /></p>
+ 
