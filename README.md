@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=ffb3c6&height=130&section=header&text=💃%20I'm%20HyeonJeong!%20🕺&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=ffb3c6&width=100%&height=130&section=header&text=💃%20I'm%20HyeonJeong!%20🕺&fontSize=70&fontColor=ffffff)
   
 </br>
 
@@ -35,13 +35,13 @@
 
 </div>
  
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy&count_private=true&hide_border=true" align="left" style="width: 80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun2021&hide_border=true&layout=compact" align="left" style="width: 80%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun2021&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
