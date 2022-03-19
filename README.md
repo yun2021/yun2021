@@ -50,4 +50,4 @@ https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor
 
  </div> -->
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&show_icons=true&locale=en&layout=compact" alt="yun2021" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yun2021&show_icons=true&locale=en&layout=compact" alt="yun2021" /></p>
