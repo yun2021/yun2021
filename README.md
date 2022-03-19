@@ -35,11 +35,11 @@
 
 </div>
  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun2021&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
