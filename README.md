@@ -17,12 +17,11 @@
 <!-- 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 
-</br>
+</br></br>
 
 <h3 align="center">🐰 About me 🐰</h3>
 </br>
 <p align="center">
-  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </br>
@@ -38,13 +37,15 @@
 <div display="flex" align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yun2021&show_icons=true&locale=en&layout=compact" alt="yun2021" />
   
 </div> 
  
 </br>
 <div align="center">
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yun2021&show_icons=true&locale=en&layout=compact" alt="yun2021" /></p>
+<p></p>
 
  </div>
  
