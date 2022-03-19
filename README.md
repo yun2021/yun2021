@@ -1,8 +1,8 @@
-<h1 align="center"> 💃 Hi I'm HyeonJeong! 🕺
+<h1 align="center"> <b>💃 Hi I'm HyeonJeong! 🕺</b>
   
 </br></br>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
