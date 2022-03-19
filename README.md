@@ -4,7 +4,7 @@
 
 <h1 align="center"> <b>💃 Hi, I'm HyeonJeong! 🕺</b> </h1>
   
-</br></br>
+</br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 </br>
@@ -25,7 +25,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</br></br>
+</br>
 
 <div align="center">
   
