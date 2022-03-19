@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=ffb3c6&height=130&section=header&text=Seize%20the%20day&fontSize=70&fontColor=ffffff)
-
-</br></br>
-
-<h2 align="center"> <b>💃 Hi, I'm HyeonJeong! 🕺</b> </h2>
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=ffb3c6&height=130&section=header&text=💃%20Hi,%20I'm%20HyeonJeong!%20🕺&fontSize=70&fontColor=ffffff)
   
 </br>
 
