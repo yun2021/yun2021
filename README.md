@@ -17,14 +17,15 @@
 <!-- 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 
-</br></br>
+</br>
 
 <h3 align="center">🐰 About me 🐰</h3>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</br></br>
+</br>
 
 <div align="center">
   
