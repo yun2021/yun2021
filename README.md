@@ -11,13 +11,13 @@
 
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a> &nbsp
+<a href="https://velog.io/@yun2021"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/></a> &nbsp
+<a href="https://github.com/yun2021"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a> &nbsp
 
 <!-- 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 
-</br>
+</br></br>
 
 <h3 align="center">🐰 About me 🐰</h3>
 </br>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</br>
+</br></br>
 
 <div align="center">
   
@@ -34,7 +34,7 @@
 
 </div>
   
-</br></br>
+</br>
 <div display="flex" align="center">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yun2021&show_icons=true&locale=en&layout=compact" alt="yun2021" />
