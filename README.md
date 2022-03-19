@@ -1,4 +1,4 @@
-<h1 align="center"> <b>💃 Hi I'm HyeonJeong! 🕺</b>
+<h1 align="center"> <b>💃 Hi I'm HyeonJeong! 🕺</b> </h1>
   
 </br></br>
 
