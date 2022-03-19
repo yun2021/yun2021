@@ -31,7 +31,7 @@
 </div>
   
 </br>
-<div align="center">
+<div display="flex" align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy)
 
