@@ -1,4 +1,4 @@
-<h1 align="center"> <b>💃 Hi I'm HyeonJeong! 🕺</b> </h1>
+<h1 align="center"> <b>💃 Hi, I'm HyeonJeong! 🕺</b> </h1>
   
 </br></br>
 
@@ -10,6 +10,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/></a> &nbsp
+
+<!-- 
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 
 </br>
 <p align="center">
@@ -27,4 +30,10 @@
 <p align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyun2021%2Fhit-counter&count_bg=%23C19EE0&title_bg=%237251B5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</br>
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={"yon2021"})](https://github.com/anuraghazra/github-readme-stats)
+  
 
