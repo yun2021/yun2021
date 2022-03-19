@@ -24,7 +24,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</br>
+</br></br>
 
 <div align="center">
   
@@ -33,14 +33,14 @@
 
 </div>
   
-</br>
+</br></br>
 <div display="flex" align="center">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yun2021&show_icons=true&locale=en&layout=compact" alt="yun2021" />
   
 </div> 
  
-</br>
+</br></br>
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy)
