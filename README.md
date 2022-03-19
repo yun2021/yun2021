@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=ffb3c6&height=130&section=header&text=Believe%20in%20yourself&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=ffb3c6&height=130&section=header&text=Seize%20the%20day&fontSize=70&fontColor=ffffff)
 
 </br></br>
 
