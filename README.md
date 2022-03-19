@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=ffb3c6&height=300&section=header&text=Believe%20in%20yourself&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=ffb3c6&height=200&section=header&text=Believe%20in%20yourself&fontSize=80&fontColor=ffe5ec)
 
 <h1 align="center"> <b>💃 Hi, I'm HyeonJeong! 🕺</b> </h1>
   
