@@ -35,16 +35,13 @@
 
 </div>
  
- 
-<div align="center">
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy&count_private=true&hide_border=true" align="left" style="width: 98%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&theme=buefy&count_private=true&hide_border=true" align="left" style="width: 98.5%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun2021&hide_border=true&layout=compact" align="left" style="width: 98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun2021&hide_border=true&layout=compact" align="left" style="width: 98.5%" />
 
 </td></tr></table>  
-</div>  
 <br/>
