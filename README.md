@@ -37,10 +37,10 @@
  
 <table>
 <tr><td valign="top" width="50%">
-<a href="https://github.com/yun2021"><img align="center" style="height:180px" src="https://github-readme-stats-blond-eight-60.vercel.app/api?username=yun2021&show_icons=true&count_private=true&hide_border=true&theme=buefy&hide=stars,contribs" alt="HyeonJeong's github stats" /></a>
+<a href="https://github.com/yun2021"><img align="center" style="height:180px" src="https://github-readme-stats-six-blush-76.vercel.app/api?username=yun2021&show_icons=true&count_private=true&hide_border=true&theme=buefy&hide=stars" alt="HyeonJeong's github stats" /></a>
 </td>
 
 <td valign="top" width="50%">
-<a href="https://github.com/yun2021"><img align="center" style="height:180px" src="https://github-readme-stats-blond-eight-60.vercel.app/api/top-langs/?username=yun2021&layout=compact&hide_border=true" /></a> 
+<a href="https://github.com/yun2021"><img align="center" style="height:180px" src="https://github-readme-stats-six-blush-76.vercel.app/api/top-langs/?username=yun2021&layout=compact&hide_border=true" /></a> 
 </td></tr></table>  
 <br/>
