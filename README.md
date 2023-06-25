@@ -37,7 +37,7 @@
  
 <table>
 <tr><td valign="top" width="50%">
-<a href="https://github.com/yun2021"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" alt="HyeonJeong's github stats" /></a>
+<a href="https://github.com/yun2021"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yun2021&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy&hide=stars,contribs" alt="HyeonJeong's github stats" /></a>
 </td>
 
 <td valign="top" width="50%">
